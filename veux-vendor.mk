@@ -1700,6 +1700,8 @@ PRODUCT_PACKAGES += \
     libfastcvopt \
     CACertService \
     CneApp \
+    DaxUI \
+    daxService \
     IWlanService \
     SoterService \
     TimeService \
@@ -1725,7 +1727,6 @@ PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.3-service-qti \
     c2_manifest_vendor \
     manifest_android.hardware.drm@1.3-service.widevine \
-    manifest_vendor.dolby.hardware.dms \
     manifest_vendor.xiaomi.hardware.mlipay \
     vendor.qti.diag.hal.service \
     vendor.qti.hardware.sensorscalibrate-V1.0-java \
